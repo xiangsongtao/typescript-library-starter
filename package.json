@@ -1,11 +1,11 @@
 {
-  "name": "--libraryname--",
+  "name": "library",
   "version": "0.0.0",
   "description": "",
   "keywords": [],
-  "main": "dist/--libraryname--.umd.js",
-  "module": "dist/--libraryname--.es5.js",
-  "typings": "dist/types/--libraryname--.d.ts",
+  "main": "dist/library.umd.js",
+  "module": "dist/library.es5.js",
+  "typings": "dist/types/library.d.ts",
   "files": [
     "dist"
   ],
